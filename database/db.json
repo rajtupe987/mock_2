@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "student_name": "Raj Tupe",
+      "age": "21",
+      "place": "asdf",
+      "batch": "WEB-13",
+      "profession": "Frontend",
+      "id": 3
+    },
+    {
+      "student_name": "Raj Tupe",
+      "age": "32",
+      "place": "asfsdf",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 4
+    },
+    {
+      "student_name": "karan",
+      "age": "22",
+      "place": "takal",
+      "batch": "WEB-13",
+      "profession": "Frontend",
+      "id": 5
+    },
+    {
+      "student_name": "rama",
+      "age": "22",
+      "place": "adsf",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 6
+    },
+    {
+      "student_name": "neha",
+      "age": "33",
+      "place": "gurghav",
+      "batch": "WEB-13",
+      "profession": "Frontend",
+      "id": 7
+    },
+    {
+      "student_name": "mohit",
+      "age": "22",
+      "place": "hinagna",
+      "batch": "WEB-13",
+      "profession": "Frontend",
+      "id": 8
+    },
+    {
+      "student_name": "Raj Tupe",
+      "age": "23",
+      "place": "sukali",
+      "batch": "WEB-13",
+      "profession": "Backend",
+      "id": 9
+    },
+    {
+      "student_name": "lalit",
+      "age": "23",
+      "place": "sukali",
+      "batch": "WEB-13",
+      "profession": "Student",
+      "id": 10
+    }
+  ],
+  "admin": [
+    {
+      "email": "rajtupe@email.com",
+      "password": "rajtupe",
+      "id": 1
+    }
+  ]
+}
