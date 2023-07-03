@@ -17,6 +17,7 @@ document.getElementById("user_form").addEventListener("submit",(e)=>{
         profession
      }
 
+
      
 
      fetch("https://coffee-rattlesnake-wig.cyclic.app/users",{
